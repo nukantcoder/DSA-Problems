@@ -3,23 +3,25 @@ public:
     int searchInsert(vector<int>& nums, int target) {
         
         int n = nums.size();
-        if(nums[0] > target)
+        int low = 0;
+        int high = n - 1;
+
+        while(low <= high)
         {
-            return 0;
-        }
-        if(nums[n - 1] < target)
-        {
-            return n;
-        }
-          int index;
-        for(int i = 0;i < n;i++)
-        {
-            if(nums[i] >= target)
+            int mid = (low + high)/2;
+            if(nums[mid] < target)
             {
-                index = i;
-                break;
+                low = mid + 1;
+            }
+            else if(nums[mid] > target)
+            {
+                high = mid - 1;
+            }
+            else
+            {
+                return mid;
             }
         }
-        return index;
+        return low;
     }
 };
