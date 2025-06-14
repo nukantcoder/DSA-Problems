@@ -9,10 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/nukantcoder/DSA-Problems/tree/master/0035-search-insert-position) |
 | [0792-binary-search](https://github.com/nukantcoder/DSA-Problems/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/nukantcoder/DSA-Problems/tree/master/0907-koko-eating-bananas) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/nukantcoder/DSA-Problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/nukantcoder/DSA-Problems/tree/master/0035-search-insert-position) |
 | [0792-binary-search](https://github.com/nukantcoder/DSA-Problems/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/nukantcoder/DSA-Problems/tree/master/0907-koko-eating-bananas) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/nukantcoder/DSA-Problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 <!---LeetCode Topics End-->
