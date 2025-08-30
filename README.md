@@ -64,4 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/nukantcoder/DSA-Problems/tree/master/0075-sort-colors) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/nukantcoder/DSA-Problems/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/nukantcoder/DSA-Problems/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
