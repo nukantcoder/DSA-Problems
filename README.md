@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/nukantcoder/DSA-Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nukantcoder/DSA-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/nukantcoder/DSA-Problems/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/nukantcoder/DSA-Problems/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nukantcoder/DSA-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/nukantcoder/DSA-Problems/tree/master/0410-split-array-largest-sum) |
 | [0792-binary-search](https://github.com/nukantcoder/DSA-Problems/tree/master/0792-binary-search) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/nukantcoder/DSA-Problems/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/nukantcoder/DSA-Problems/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/nukantcoder/DSA-Problems/tree/master/0229-majority-element-ii) |
 ## Math
 |  |
 | ------- |
@@ -79,8 +81,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/nukantcoder/DSA-Problems/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/nukantcoder/DSA-Problems/tree/master/0229-majority-element-ii) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/nukantcoder/DSA-Problems/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/nukantcoder/DSA-Problems/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
