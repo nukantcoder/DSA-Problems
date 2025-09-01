@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/nukantcoder/DSA-Problems/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/nukantcoder/DSA-Problems/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/nukantcoder/DSA-Problems/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/nukantcoder/DSA-Problems/tree/master/0053-maximum-subarray) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/nukantcoder/DSA-Problems/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/nukantcoder/DSA-Problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/nukantcoder/DSA-Problems/tree/master/0229-majority-element-ii) |
 ## Counting
