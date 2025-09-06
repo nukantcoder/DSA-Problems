@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/nukantcoder/DSA-Problems/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nukantcoder/DSA-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/nukantcoder/DSA-Problems/tree/master/0410-split-array-largest-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/nukantcoder/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/nukantcoder/DSA-Problems/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/nukantcoder/DSA-Problems/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/nukantcoder/DSA-Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/nukantcoder/DSA-Problems/tree/master/0410-split-array-largest-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/nukantcoder/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
 ## Matrix
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/nukantcoder/DSA-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/nukantcoder/DSA-Problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/nukantcoder/DSA-Problems/tree/master/0229-majority-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/nukantcoder/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
 ## Counting
 |  |
 | ------- |
