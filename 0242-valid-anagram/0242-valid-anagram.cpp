@@ -4,33 +4,25 @@ public:
         
         int n = s.size();
         int m = t.size();
+        if(n != m)
+        {
+            return false;
+        }
 
-        if(n != m) return false;
-
-        unordered_map<char,int> mp1;
-        unordered_map<char,int> mp2;
-
+        vector<int> freq(26,0);
         for(int i = 0;i < n;i++)
         {
-            mp1[s[i]]++;
+            freq[s[i] - 'a']++;
         }
-        for(int i = 0;i < m;i++)
+for(int i = 0;i < n;i++)
         {
-            mp2[t[i]]++;
+            freq[t[i] - 'a']--;
         }
 
-        set<char> st;
-        for(int i = 0;i < n;i++)
-        {
-            st.insert(s[i]);
-        }
-
-for(auto i : st)
+for(int i = 0;i < 26;i++)
 {
-    if(mp1[i] != mp2[i])
-    return false;
+    if(freq[i] != 0) return false;
 }
 return true;
-
     }
 };
