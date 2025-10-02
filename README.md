@@ -118,9 +118,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/nukantcoder/DSA-Problems/tree/master/0205-isomorphic-strings) |
+| [0812-rotate-string](https://github.com/nukantcoder/DSA-Problems/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/nukantcoder/DSA-Problems/tree/master/1078-remove-outermost-parentheses) |
 ## Stack
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/nukantcoder/DSA-Problems/tree/master/1078-remove-outermost-parentheses) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/nukantcoder/DSA-Problems/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
