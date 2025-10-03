@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/nukantcoder/DSA-Problems/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/nukantcoder/DSA-Problems/tree/master/0050-powx-n) |
 ## Recursion
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nukantcoder/DSA-Problems/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/nukantcoder/DSA-Problems/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/nukantcoder/DSA-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/nukantcoder/DSA-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/nukantcoder/DSA-Problems/tree/master/0169-majority-element) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/nukantcoder/DSA-Problems/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/nukantcoder/DSA-Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/nukantcoder/DSA-Problems/tree/master/0242-valid-anagram) |
 | [0812-rotate-string](https://github.com/nukantcoder/DSA-Problems/tree/master/0812-rotate-string) |
