@@ -1,25 +1,73 @@
 class Solution {
 public:
-    int strStr(string s1, string s2) {
+vector<int> lpsfind(string pattern)
+{
+    int n = pattern.size();
+    vector<int>lps(n,0);
 
-        int n = s1.size();
-        int m = s2.size();
+    int prefix = 0;
+    int suffix = 1;
+    lps[0] = 0;
 
-        for(int i = 0;i <= n - m;i++)
+    while(suffix < n)
+    {
+        if(pattern[prefix] == pattern[suffix])
         {
-            for(int j = 0;j < m;j++)
+            lps[suffix] = prefix + 1;
+            prefix++;
+            suffix++;
+    }
+    else
+    {
+        if(prefix == 0)
+        {
+            lps[suffix] = 0;
+            suffix++;
+        }
+        else
+        {
+            prefix = lps[prefix - 1];
+        }
+    }
+    }
+    return lps;
+}
+    int strStr(string text, string pattern) {
+        
+
+        int n = text.size();
+        int m = pattern.size();
+
+        vector<int>lps = lpsfind(pattern);
+        
+        int f = 0;
+        int s = 0;
+        while(s < m && f < n)
+        {
+            if(text[f] == pattern[s])
             {
-                if(s1[i + j] != s2[j])
+                f++;
+                s++;
+            }
+            else
+            {
+                if(s == 0)
                 {
-                    break;
+                    f++;
                 }
-                if(j == m - 1)
+                else
                 {
-                    return i;
+                    s = lps[s-1];
                 }
             }
         }
-        return -1;
-        
+        if(s == m)
+        {
+            return f - s;
+        }
+        else
+        {
+            return -1;
+        }
     }
 };
