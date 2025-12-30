@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/nukantcoder/DSA-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nukantcoder/DSA-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/nukantcoder/DSA-Problems/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/nukantcoder/DSA-Problems/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/nukantcoder/DSA-Problems/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nukantcoder/DSA-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/nukantcoder/DSA-Problems/tree/master/0268-missing-number) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/nukantcoder/DSA-Problems/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/nukantcoder/DSA-Problems/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/nukantcoder/DSA-Problems/tree/master/0142-linked-list-cycle-ii) |
+| [0189-rotate-array](https://github.com/nukantcoder/DSA-Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/nukantcoder/DSA-Problems/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/nukantcoder/DSA-Problems/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/nukantcoder/DSA-Problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/nukantcoder/DSA-Problems/tree/master/0050-powx-n) |
+| [0189-rotate-array](https://github.com/nukantcoder/DSA-Problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/nukantcoder/DSA-Problems/tree/master/0268-missing-number) |
 ## Recursion
 |  |
