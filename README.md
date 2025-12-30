@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/nukantcoder/DSA-Problems/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nukantcoder/DSA-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/nukantcoder/DSA-Problems/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/nukantcoder/DSA-Problems/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/nukantcoder/DSA-Problems/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/nukantcoder/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/nukantcoder/DSA-Problems/tree/master/0792-binary-search) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/nukantcoder/DSA-Problems/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/nukantcoder/DSA-Problems/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/nukantcoder/DSA-Problems/tree/master/0142-linked-list-cycle-ii) |
+| [0283-move-zeroes](https://github.com/nukantcoder/DSA-Problems/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
