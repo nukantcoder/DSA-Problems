@@ -2,24 +2,31 @@ class Solution {
 public:
     int majorityElement(vector<int>& nums) {
         
+        //Brute Force could be done using Sorting
+        //Better Approach could be using extra space
+        //Optimal Approach using Moores Voting algorithm
+
+        int count = 1;
+        int element = nums[0];
         int n = nums.size();
-        int ans = -1;
-        int freq = 0;
-        for(int i = 0;i < n;i++)
+
+        for(int i = 1;i < n;i++)
         {
-            if(freq == 0)
+            if(nums[i] == element)
             {
-                ans = nums[i];
-            }
-            if(ans == nums[i])
-            {
-                freq++;
+                count++;
             }
             else
             {
-                freq--;
+                count--;
             }
-        }
-        return ans;
+
+            if(count == 0)
+            {
+                element = nums[i];
+                count = 1;
+            }
+        } 
+        return element;
     }
 };
