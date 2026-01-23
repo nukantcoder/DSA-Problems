@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/nukantcoder/DSA-Problems/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/nukantcoder/DSA-Problems/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/nukantcoder/DSA-Problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/nukantcoder/DSA-Problems/tree/master/0050-powx-n) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/nukantcoder/DSA-Problems/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/nukantcoder/DSA-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/nukantcoder/DSA-Problems/tree/master/0050-powx-n) |
 ## Hash Table
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/nukantcoder/DSA-Problems/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/nukantcoder/DSA-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0142-linked-list-cycle-ii](https://github.com/nukantcoder/DSA-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/nukantcoder/DSA-Problems/tree/master/0148-sort-list) |
