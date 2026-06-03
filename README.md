@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/nukantcoder/DSA-Problems/tree/master/0410-split-array-largest-sum) |
 | [0503-next-greater-element-ii](https://github.com/nukantcoder/DSA-Problems/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/nukantcoder/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
+| [0735-asteroid-collision](https://github.com/nukantcoder/DSA-Problems/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/nukantcoder/DSA-Problems/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/nukantcoder/DSA-Problems/tree/master/0907-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/nukantcoder/DSA-Problems/tree/master/0907-sum-of-subarray-minimums) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/nukantcoder/DSA-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0402-remove-k-digits](https://github.com/nukantcoder/DSA-Problems/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/nukantcoder/DSA-Problems/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/nukantcoder/DSA-Problems/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/nukantcoder/DSA-Problems/tree/master/0907-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/nukantcoder/DSA-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/nukantcoder/DSA-Problems/tree/master/1078-remove-outermost-parentheses) |
@@ -222,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/nukantcoder/DSA-Problems/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/nukantcoder/DSA-Problems/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/nukantcoder/DSA-Problems/tree/master/0907-sum-of-subarray-minimums) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/nukantcoder/DSA-Problems/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
