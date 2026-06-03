@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/nukantcoder/DSA-Problems/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/nukantcoder/DSA-Problems/tree/master/0410-split-array-largest-sum) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/nukantcoder/DSA-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Prefix Sum
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/nukantcoder/DSA-Problems/tree/master/0038-count-and-say) |
 | [0205-isomorphic-strings](https://github.com/nukantcoder/DSA-Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/nukantcoder/DSA-Problems/tree/master/0242-valid-anagram) |
+| [0402-remove-k-digits](https://github.com/nukantcoder/DSA-Problems/tree/master/0402-remove-k-digits) |
 | [0812-rotate-string](https://github.com/nukantcoder/DSA-Problems/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/nukantcoder/DSA-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/nukantcoder/DSA-Problems/tree/master/1078-remove-outermost-parentheses) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/nukantcoder/DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/nukantcoder/DSA-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/nukantcoder/DSA-Problems/tree/master/0232-implement-queue-using-stacks) |
+| [0402-remove-k-digits](https://github.com/nukantcoder/DSA-Problems/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/nukantcoder/DSA-Problems/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/nukantcoder/DSA-Problems/tree/master/0907-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/nukantcoder/DSA-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nukantcoder/DSA-Problems/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/nukantcoder/DSA-Problems/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/nukantcoder/DSA-Problems/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/nukantcoder/DSA-Problems/tree/master/0907-sum-of-subarray-minimums) |
 <!---LeetCode Topics End-->
