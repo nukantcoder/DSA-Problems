@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/nukantcoder/DSA-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/nukantcoder/DSA-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/nukantcoder/DSA-Problems/tree/master/0075-sort-colors) |
+| [0084-largest-rectangle-in-histogram](https://github.com/nukantcoder/DSA-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/nukantcoder/DSA-Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nukantcoder/DSA-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/nukantcoder/DSA-Problems/tree/master/0128-longest-consecutive-sequence) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nukantcoder/DSA-Problems/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/nukantcoder/DSA-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0225-implement-stack-using-queues](https://github.com/nukantcoder/DSA-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/nukantcoder/DSA-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0402-remove-k-digits](https://github.com/nukantcoder/DSA-Problems/tree/master/0402-remove-k-digits) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nukantcoder/DSA-Problems/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/nukantcoder/DSA-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/nukantcoder/DSA-Problems/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/nukantcoder/DSA-Problems/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/nukantcoder/DSA-Problems/tree/master/0907-sum-of-subarray-minimums) |
