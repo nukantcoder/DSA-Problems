@@ -1,18 +1,28 @@
 class StockSpanner {
 public:
-stack<pair<int,int>> st;
+stack <pair<int,int>> st; // Another approach could be simply the intuition is to find the index of previous greater element on left and  using a monotonic stack
+int i = 0;
     StockSpanner() {
         
     }
     
-    int next(int next) {
-        int span = 1;
-        while(!st.empty() && next >= st.top().first)
+    int next(int price) {
+        
+        int span = 0;
+        while(!st.empty() && price >= st.top().first)
         {
-            span = span + st.top().second;
             st.pop();
         }
-        st.push({next,span});
+        if(st.empty())
+        {
+            span = i - (-1);
+        }
+        else
+        {span = i - st.top().second;
+        }
+        st.push({price,i});
+        i = i + 1;
+
         return span;
     }
 };
