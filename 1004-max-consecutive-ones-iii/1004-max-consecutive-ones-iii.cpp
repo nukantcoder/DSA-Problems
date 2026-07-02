@@ -1,7 +1,7 @@
 class Solution {
 public:
     int longestOnes(vector<int>& nums, int k) {
-        //The basic approach behind this problem is instead of thinking to flip the zeroes and check for subarrays we can see each subarray could have maximum of k zeroes so we have to find longest subarray with maximum of k zeroes which could be easily done using sliding window + 2 pointers just expand the window till zeroes <= k as they exceed shrink the window till zeroes <= k
+        //the optimized approach works on the sliding window approach in that as our window was getting invalid we were shrinking it to make it valid again but here as the window gets invalid we will move i also such that the window only grows when the condition is satisfied as it becomes invalid the maxlength still gets maintained while increasing i and j both by one place
 
         int n = nums.size();
         int maxlength = 0;
@@ -16,7 +16,7 @@ public:
             {
                 count++;
             }
-            while(count > k)
+            if(count > k)
             {
                 if(nums[i] == 0)
                 {
@@ -24,7 +24,10 @@ public:
                 }
                 i++;
             }
-            maxlength = max(maxlength,j - i + 1);
+            if(count <= k)
+            {
+ maxlength = max(maxlength,j - i + 1);
+            }
             j = j + 1;
         }
         return maxlength;
