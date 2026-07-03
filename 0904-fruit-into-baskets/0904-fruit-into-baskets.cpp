@@ -1,10 +1,8 @@
 class Solution {
 public:
     int totalFruit(vector<int>& fruits) {
-        //First of all the question says that i have to pick the maximum fruits such that each basket can have only 1 type fruit so i can think of as the longest substring of atmost 2 unique fruits 
-        // The brute force approach is to try to find each subarray using 2 loops and using a set in each case to store the elements and as soon as the elements . 2 that means it violates the condition so break and start another subarray
-
-        // A better approach would be to use a two pointers + sliding window technique and a map to store the frequencies of fruits so expand the window till mp.size() <= 2 and as soon as mp.size() > 2 shrink the window untill it becomes a valid window
+      // A small optimization over better approach my window was expanding untill my mp.size() <= 2 and as soon as window size > 2 my window was shrinking untill it became a valid window but instead of shrinking all the way i will shrink by one place
+     // because in first iteratino untill j expands it will give me current maxlength but as soon as the window becomes invalid i will move i by 1 place and j by 1 place such that the maxlength does not exceed and as it is valid window j will keep expanding 
 
         int n = fruits.size();
         unordered_map<int,int>mp;
@@ -16,7 +14,7 @@ public:
         while(j < n)
         {
             mp[fruits[j]]++;
-            while(mp.size() > 2)
+            if(mp.size() > 2)
             {
                 mp[fruits[i]]--;
                 if(mp[fruits[i]] == 0)
@@ -25,7 +23,10 @@ public:
                 }
                 i++;
             }
-            maxlength = max(maxlength,j - i + 1);
+            if(mp.size() <= 2)
+            {
+maxlength = max(maxlength,j - i + 1);
+            }
             j++;
         }
         return maxlength;
