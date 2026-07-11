@@ -1,31 +1,22 @@
 class Solution {
 public:
-//The main idea is instead of finding the subarrays with sum equal to goal find suarrays with sum <= goal and sum <= goal - 1 using sliding window exact subarrays = subarrays <= goal - subarrays <= goal - 1
-int count(vector<int>& nums, int k)
-{
-    if(k < 0)
-    {
-        return 0;
-    }
-    int n = nums.size();
-    int sum = 0;
-    int count = 0;
-    int i = 0;
-    int j = 0;
-    while(j < n)
-    {
-        sum = sum + nums[j];
-        while(sum > k)
-        {
-            sum = sum - nums[i];
-            i++;
-        }
-        count = count + (j - i + 1);
-        j++;
-    }
-    return count;
-}
+//The main approach is since we were computing sums again and again in brute force we can use a prefixsum and map because now instead of recomputing we have a running sum and use map to store frequencies just check prefix = currentsum - goal if my prefix is present in map or not if it is present then add its occurences.
     int numSubarraysWithSum(vector<int>& nums, int goal) {
-        return count(nums,goal) - count(nums,goal - 1);
+        int n = nums.size();
+        unordered_map<int,int>mp;
+        mp[0] = 1;
+        int prefixsum = 0;
+        int ans = 0;
+        for(int i = 0;i < n;i++)
+        {
+            prefixsum += nums[i];
+            int rem = prefixsum - goal;
+            if(mp.find(rem) != mp.end())
+            {
+                ans = ans + mp[rem];
+            }
+            mp[prefixsum]++;
+        }
+        return ans;
     }
 };
