@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/nukantcoder/DSA-Problems/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nukantcoder/DSA-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/nukantcoder/DSA-Problems/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/nukantcoder/DSA-Problems/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/nukantcoder/DSA-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/nukantcoder/DSA-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/nukantcoder/DSA-Problems/tree/master/0169-majority-element) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nukantcoder/DSA-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nukantcoder/DSA-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/nukantcoder/DSA-Problems/tree/master/0038-count-and-say) |
+| [0076-minimum-window-substring](https://github.com/nukantcoder/DSA-Problems/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/nukantcoder/DSA-Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/nukantcoder/DSA-Problems/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/nukantcoder/DSA-Problems/tree/master/0402-remove-k-digits) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nukantcoder/DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/nukantcoder/DSA-Problems/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/nukantcoder/DSA-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/nukantcoder/DSA-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/nukantcoder/DSA-Problems/tree/master/0904-fruit-into-baskets) |
