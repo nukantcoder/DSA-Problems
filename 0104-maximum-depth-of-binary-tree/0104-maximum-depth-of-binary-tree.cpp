@@ -11,35 +11,15 @@
  */
 class Solution {
 public:
-    int maxDepth(TreeNode* root) {
-        //Using BFS Traversal
-
+//the main approach or the intuition is since for every node height depends on the height of its leftsubtree and rightsubtree respectively so for every node it os doing same thing so applying recusion is ideal and base case when current node is null it indicates no node exists so height will be 0. TC:O(N) AS:O(N) Stack Space atmax can have all the N nodes
+     int maxDepth(TreeNode* root) {
         if(root == NULL)
         {
             return 0;
         }
-        int depth = 0;
-        queue<TreeNode*>q;
-        q.push(root);
+        int leftheight = maxDepth(root -> left);
+        int rightheight = maxDepth(root -> right);
 
-        while(!q.empty())
-        {
-            int levelsize = q.size();
-            for(int i = 0;i < levelsize;i++)
-            {
-                TreeNode*current = q.front();
-                q.pop();
-                if(current -> left != NULL)
-                {
-                    q.push(current -> left);
-                }
-                if(current -> right != NULL)
-                {
-                    q.push(current -> right);
-                }
-            }
-            depth = depth + 1;
-        }
-        return depth;
+        return max(leftheight,rightheight) + 1;
     }
 };
